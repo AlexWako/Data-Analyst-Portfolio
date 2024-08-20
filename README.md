@@ -7,6 +7,12 @@
 - Contact
 
 ## About
-Hi, I am Alessandro Wako or Alex Wako and I am a recent graduate of University of California, Santa Barbara with a B.S. in Statistics and Data Science. I have around a year of experience as a data analyst and a passion of discovering meaningful insight using data. I am eager to bring my skills to the field and believe my adaptability will be an asset for any entry-level analyst position.
+Hi, I am Alessandro Wako or Alex Wako, and this repository is a means to showcase and share some of my skills as a Data Analyst. I recently graduated with a B.S. in statistics and data science from the University of California, Santa Barbara, and I also have around a year of experience as a data analyst. I have a passion for discovering meaningful insight using data, and I am eager to bring my skills to the field, believing my adaptability will be an asset for any entry-level analyst position.
 
 ## Projects
+
+## Certificates
+
+## Contact
+- [Linkedin](https://www.linkedin.com/in/alessandro-wako-527976244/)
+- [Email](alexwako828@gmail.com)
