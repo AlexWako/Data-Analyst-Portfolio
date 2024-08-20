@@ -3,9 +3,8 @@
 ## Table of Contents
 - [About](#About)
 - [Projects](#Projects)
-  - Python
-  - R
-  - SQL
+  - [Python](#Python)
+  - [R](#R)
 - [Certificates](#Certificates)
 - [Contact](#Contact)
 
@@ -35,6 +34,9 @@ This section is a list of some data analytics projects I have completed and a sh
 
 ## Certificates
 
+- [Applied Data Science with Python](https://www.coursera.org/account/accomplishments/specialization/certificate/YQGJWWWDKZRP)(March 2022, Coursera - University of Michigan)
+
 ## Contact
+
 - [Linkedin](https://www.linkedin.com/in/alessandro-wako-527976244/)
 - Email: [alexwako828@gmail.com](mailto:alexwako828@gmail.com)
