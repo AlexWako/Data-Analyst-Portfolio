@@ -34,7 +34,7 @@ This section is a list of some data analytics projects I have completed and a sh
 
 ## Certificates
 
-- [Applied Data Science with Python](https://www.coursera.org/account/accomplishments/specialization/certificate/YQGJWWWDKZRP)(March 2022, Coursera - University of Michigan)
+- [Applied Data Science with Python](https://www.coursera.org/account/accomplishments/specialization/certificate/YQGJWWWDKZRP) (March 2022, Coursera - University of Michigan)
 
 ## Contact
 
