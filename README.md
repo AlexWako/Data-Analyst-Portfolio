@@ -15,4 +15,4 @@ Hi, I am Alessandro Wako or Alex Wako, and this repository is a means to showcas
 
 ## Contact
 - [Linkedin](https://www.linkedin.com/in/alessandro-wako-527976244/)
-- Email:[alexwako828@gmail.com](mailto:alexwako828@gmail.com)
+- Email: [alexwako828@gmail.com](mailto:alexwako828@gmail.com)
