@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - About
-- [Projects](##Projects)
+- [Projects](#Projects)
   - Python
   - R
   - SQL
