@@ -1,6 +1,6 @@
 # Data-Analyst-Portfolio
 
-# Table of Contents
+## Table of Contents
 - About
 - Projects
 - Certificates
