@@ -2,7 +2,10 @@
 
 ## Table of Contents
 - About
-- Projects
+- [Projects](doc/Project.md)
+  - Python
+  - R
+  - SQL
 - Certificates
 - Contact
 
