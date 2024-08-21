@@ -4,6 +4,8 @@
 - [About](#About)
 - [Projects](#Projects)
   - [Python](#Python)
+    - OD App
+    - Exploratory Data Analsyis of the World Happiness Report 2008-2023
   - [R](#R)
 - [Education](#Education)
 - [Certificates](#Certificates)
