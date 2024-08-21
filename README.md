@@ -19,7 +19,7 @@ This section is a list of some data analytics projects I have completed and a sh
 
 ### Python
 
-#### [OD App](htt
+#### [OD App](https://github.com/AlexWako/Data-Analyst-Portfolio/tree/main/ODApp)
 
 **Description:** The goal of the project was to develop an in-house application for the organization to assist with data management and deal with fulfillment. 
 
