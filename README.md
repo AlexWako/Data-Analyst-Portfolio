@@ -25,7 +25,7 @@ This section is a list of some data analytics projects I have completed and a sh
 
 **Skills:**
 
-#### [Exploratory Data Analysis of the World Happiness Report 2008-2023]
+#### [Exploratory Data Analysis of the World Happiness Report 2008-2023](https://github.com/AlexWako/Data-Analyst-Portfolio/tree/main/World-Happiness-Report)
 
 **Description:** The goal of the project was to answer the question: "Is there evidence that a newborn can lead to a healthy long life given the happiness of the country?" The process involved cleaning and preparing the data into a state that it can be statistically modeled, including using a correlation matrix and principal component analysis. Then the data was trained and tested on two multi-linear regression model with one ignoring the results of the principal component analysis. The result found showed that there is not a strong relationship between the happiness of a country and a healthy long life, but some factors the data used to find the happiness index of each country were factors that increased a healthy long life.
 
