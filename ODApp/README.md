@@ -15,3 +15,12 @@ The fulfill order functions as a connection to Shopify's backend. Specifically, 
 
 The edit measurement functions as another connection to Shopify's backend. Manually creating a table for each measurement of a product can take a long time out of a productive day, so I made a program that can instantly turn the measurements we record on Excel into measurements visible to customers through Shopify.
 
+### Competitor Change
+
+Competitor change tracks a certain competitor brand's price, which also has a headquarters in Tokyo. Some brands we sell overlap with their products, so keeping up with their price, especially in foreign currency, allows us to compete and take advantage of the same market.
+
+### Add Jean
+
+Add Jean bridges the gap between the database stored in Amazon Web Service, the 'Denim Concierge' page, and the new products we receive in our inventory. Products received can have their information typed or filled out in the app to automatically add to the database, which in turn allows customers to receive recommendations from the 'Denim Concierge' page.
+
+The application can not be used without the correct token.
