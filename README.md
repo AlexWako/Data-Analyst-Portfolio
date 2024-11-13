@@ -4,6 +4,7 @@
 - [About](#About)
 - [Projects](#Projects)
   - [Python](#Python)
+    - Poke Collection API
     - OD App
     - Exploratory Data Analsyis of the World Happiness Report 2008-2023
   - [R](#R)
@@ -22,7 +23,7 @@ This section is a list of some data analytics projects I have completed and a sh
 
 ### Python
 
-### [Poke Collection API](https://github.com/AlexWako/Poke-Collection-API)
+#### [Poke Collection API](https://github.com/AlexWako/Poke-Collection-API)
 
 
 #### [OD App](https://github.com/AlexWako/ODApp)
