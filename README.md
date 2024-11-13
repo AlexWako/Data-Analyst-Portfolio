@@ -19,7 +19,7 @@ Hi, I am Alessandro Wako or Alex Wako, and this repository is a means to showcas
 
 ## Projects
 
-This section is a list of some data analytics projects I have completed and a short description of it.
+This section is a list of some programming and data analytics projects I have completed and a short description of it.
 
 ### Python
 
