@@ -22,6 +22,9 @@ This section is a list of some data analytics projects I have completed and a sh
 
 ### Python
 
+### [Poke Collection API](https://github.com/AlexWako/Poke-Collection-API)
+
+
 #### [OD App](https://github.com/AlexWako/ODApp)
 
 **Description:** The goal of the project was to develop an in-house application for the organization to assist with data management and handle fulfillment. I also added more to the original use of the application, creating functions to help with other tasks. Techniques such as data mining were used to help with the 'Competitor Change' section of the app, while most of the app runs by interacting with user inputs and connecting it to Shopify or AWS using RESTful API. The application helped considerably decrease fulfillment and product and product measurement input time while assisting in keeping track of product comparisons between competing brands.
