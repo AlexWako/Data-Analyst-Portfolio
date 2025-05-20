@@ -51,7 +51,7 @@ This section is a list of some programming and data analytics projects I have co
 
 #### [USOPC Sports Benefits Analysis]
 
-[Tableau Story](https://public.tableau.com/app/profile/alex.wako/viz/USOPCSportsBenefits_17454384313740)
+[Tableau Story](https://public.tableau.com/app/profile/alex.wako/viz/USOPCSportsBenefits_17454384313740/COVID-19andtheEffectofFundingAnalyzingUSOPCSupportAcrossNGBs)
 
 **Description:** The goal of the project was to create any analysis of the given data and build a tableau story using it. The project involved cleaning the data and using various Tableau tools to create a complete story.
 
