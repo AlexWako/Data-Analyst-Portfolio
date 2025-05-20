@@ -53,9 +53,9 @@ This section is a list of some programming and data analytics projects I have co
 
 [Tableau Story](https://public.tableau.com/app/profile/alex.wako/viz/USOPCSportsBenefits_17454384313740/COVID-19andtheEffectofFundingAnalyzingUSOPCSupportAcrossNGBs)
 
-**Description:** The goal of the project was to create any analysis of the given data and build a tableau story using it. The project involved cleaning the data and using various Tableau tools to create a complete story.
+**Description:** The goal of the project was to create any analysis of the given USOPC Sports Benefits data and build a tableau story using it. The project involved cleaning the data with Python and Excel and using various Tableau tools to create a complete story.
 
-**Skills and Tools:** Python, Data Cleaning, Tableau
+**Skills and Tools:** Python, Excel, Data Cleaning, Tableau
 
 ## Education
 
