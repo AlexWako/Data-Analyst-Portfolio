@@ -9,6 +9,8 @@
     - Exploratory Data Analsyis of the World Happiness Report 2008-2023
   - [R](#R)
     - 2023 NBA Player Positional Analysis
+  - [Tableau](#Tableau)
+    - USOPC Sports Benefit Analysis
 - [Education](#Education)
 - [Certificates](#Certificates)
 - [Contact](#Contact)
@@ -24,7 +26,6 @@ This section is a list of some programming and data analytics projects I have co
 ### Python
 
 #### [Poke Collection API](https://github.com/AlexWako/Poke-Collection-API)
-
 
 #### [OD App](https://github.com/AlexWako/ODApp)
 
@@ -46,13 +47,25 @@ This section is a list of some programming and data analytics projects I have co
 
 **Skills and Tools:** Exploratory Data Analysis, Data Cleaning, Data Visualization, Data Modeling, R, Rmarkdown
 
+### Tableau
+
+#### [USOPC Sports Benefits Analysis]
+
+[Tableau Story](https://public.tableau.com/app/profile/alex.wako/viz/USOPCSportsBenefits_17454384313740)
+
+**Description:** The goal of the project was to create any analysis of the given data and build a tableau story using it. The project involved cleaning the data and using various Tableau tools to create a complete story.
+
+**Skills and Tools:** Python, Data Cleaning, Tableau
+
 ## Education
 
 University of California, Santa Barbara: Bachelor's of Science in Statistics and Data Science, September 2021 - June 2024
 
 ## Certificates
 
-- [Applied Data Science with Python](https://www.coursera.org/account/accomplishments/specialization/certificate/YQGJWWWDKZRP) (March 2022, Coursera - University of Michigan)
+- [Applied Data Science with Python](https://www.coursera.org/account/accomplishments/specialization/certificate/YQGJWWWDKZRP)
+- [Sports Performance Analytics](https://coursera.org/share/0b2fb4c0d62472ca53fdfd1adcbff7c7)
+- [Google Advanced Data Analytics](https://coursera.org/share/fb014f7298a4a59d6da4995635672bda)
 
 ## Contact
 
