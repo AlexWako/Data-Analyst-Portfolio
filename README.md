@@ -49,7 +49,7 @@ This section is a list of some programming and data analytics projects I have co
 
 ### Tableau
 
-#### [USOPC Sports Benefits Analysis]
+#### USOPC Sports Benefits Analysis
 
 [Tableau Story](https://public.tableau.com/app/profile/alex.wako/viz/USOPCSportsBenefits_17454384313740/COVID-19andtheEffectofFundingAnalyzingUSOPCSupportAcrossNGBs)
 
